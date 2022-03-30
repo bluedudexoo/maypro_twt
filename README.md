@@ -1,9 +1,9 @@
 # Maypro!!- #Maypro2022
 
 ## What is Maypro? 
-	-An annual celebration and opportunity to show off your cool Kaypro
-	setups/projects/etc
-	-A chance to lovingly tease Kaypro's incredibly confusing numbering system
+-An annual celebration and opportunity to show off your cool Kaypro
+setups/projects/etc
+-A chance to lovingly tease Kaypro's incredibly confusing numbering system
 
 ## Loose guidelines for the annual #Maypro20XX hashtag:
 -Week 1: WIPs- restoring a board? Making the CRT behave? Cleaning out a
