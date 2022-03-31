@@ -27,4 +27,5 @@ each week, so if you want to show something else Kaypro-related or ignore
 them entirely, feel free! Just make sure you tag #Maypro2022 so we can
 retweet it to our Maypro twitter account! 
 
-That's it for now, happy computing!
+## Got questions?
+You can email us at mayprokaypro.dm[at]gmail.com!
