@@ -25,7 +25,7 @@ If there's a little overhang into a fifth week or something, that can be
 used as a free-for-all time. Naturally, these are very loose categories for
 each week, so if you want to show something else Kaypro-related or ignore 
 them entirely, feel free! Just make sure you tag #Maypro2022 so we can
-retweet it to our Maypro twitter account, @itsmaypro! 
+retweet it to our Maypro twitter account, [@itsmaypro](https://twitter.com/itsmaypro)! 
 
 ## Got questions?
 You can email us at mayprokaypro.dm[at]gmail.com!
